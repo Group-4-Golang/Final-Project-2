@@ -1,6 +1,7 @@
 # Hacktiv Final Project 2
-
 My Gram is a rest api that functions to manage users, save a photo or make comments on other people's photos, etc
+
+base url : http://45.32.124.244:8082 
 
 ## Installation
 
